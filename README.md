@@ -1,27 +1,27 @@
-# Meu Primeiro Projeto em React Native
+# My First React Native Project
 
-Este é o meu primeiro projeto em React Native, onde estou explorando as possibilidades emocionantes do desenvolvimento de aplicativos móveis.
+This is my first project in React Native, where I'm exploring the exciting possibilities of mobile app development.
 
-## Descrição
+## Description
 
-Este projeto foi criado como parte da minha jornada de aprendizado em React Native. É uma aplicação simples que demonstra conceitos básicos e fundamentais do desenvolvimento de aplicativos móveis usando React Native.
+This project was created as part of my learning journey in React Native. It is a simple application that demonstrates basic and fundamental concepts of mobile app development using React Native.
 
-## Funcionalidades
+## Features
 
-- [x] Navegação entre telas
-- [x] Componentes reutilizáveis
-- [x] Integração com API externa
-- [x] Gerenciamento de estado com Redux
-- [ ] Autenticação de usuário
-- [ ] Funcionalidade de compartilhamento
+- [x] Navigation between screens
+- [x] Reusable components
+- [x] Integration with external API
+- [x] State management with Redux
+- [ ] User authentication
+- [ ] Sharing functionality
 
-## Como Usar
+## How to use
 
-1. Clone este repositório em sua máquina local.
-2. Navegue até o diretório do projeto.
-3. Execute `npm install` para instalar as dependências.
-4. Inicie o servidor de desenvolvimento com `npm start`.
-5. Use um emulador ou aplicativo Expo Go em seu dispositivo para visualizar o aplicativo.
+1. Clone this repository on your local machine.
+2. Navigate to the project directory.
+3. Run `npm install` to install the dependencies.
+4. Start the development server with `npm start`.
+5. Use an emulator or Expo Go application on your device to view the application.
 
 ```bash
 git clone https://github.com/seu-usuario/meu-primeiro-projeto-react-native.git
@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir problemas ou enviar pull requests.
+## Contribution
+Contributions are welcome! If you find problems, bugs or have suggestions for improvements, feel free to open issues or send pull requests.
 
-### Divirta-se codificando! 🚀📱
+### Have fun coding! 🚀📱
